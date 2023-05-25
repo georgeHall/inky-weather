@@ -1,0 +1,7 @@
+__pycache__/
+symbols/
+images/
+config.yaml
+temp.json
+temp.txt
+weather.log

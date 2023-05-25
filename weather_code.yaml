@@ -1,0 +1,225 @@
+200:
+  type: Thunderstorm
+  description: "thunderstorm with light rain" 	
+  symbol: "11"
+201:
+  type: Thunderstorm
+  description: "thunderstorm with rain" 	
+  symbol: "11"
+202:
+  type: Thunderstorm
+  description: "thunderstorm with heavy rain" 	
+  symbol: "11"
+210:
+  type: Thunderstorm
+  description: "light thunderstorm" 	
+  symbol: "11"
+211:
+  type: Thunderstorm
+  description: "thunderstorm" 	
+  symbol: "11"
+212:
+  type: Thunderstorm
+  description: "heavy thunderstorm" 	
+  symbol: "11"
+221:
+  type: Thunderstorm
+  description: "ragged thunderstorm" 	
+  symbol: "11"
+230:
+  type: Thunderstorm
+  description: "thunderstorm with light drizzle" 	
+  symbol: "11"
+231:
+  type: Thunderstorm
+  description: "thunderstorm with drizzle" 	
+  symbol: "11"
+232:
+  type: Thunderstorm
+  description: "thunderstorm with heavy drizzle" 	
+  symbol: "11"
+
+300:
+  type:	Drizzle
+  description: "light intensity drizzle"
+  symbol: "09"
+301:
+  type:	Drizzle
+  description: "drizzle"
+  symbol: "09"
+302:
+  type:	Drizzle
+  description: "heavy intensity drizzle"
+  symbol: "09"
+310:
+  type:	Drizzle
+  description: "light intensity drizzle rain"
+  symbol: "09"
+311:
+  type:	Drizzle
+  description: "drizzle rain"
+  symbol: "09"
+312:
+  type:	Drizzle
+  description: "heavy intensity drizzle rain"
+  symbol: "09"
+313:
+  type:	Drizzle
+  description: "shower rain and drizzle"
+  symbol: "09"
+314:
+  type:	Drizzle
+  description: "heavy shower rain and drizzle"
+  symbol: "09"
+321:
+  type:	Drizzle
+  description: "shower drizzle"
+  symbol: "09"
+
+500:
+  type:	Rain
+  description: "light rain"
+  symbol: "10"
+501:
+  type:	Rain
+  description: "moderate rain"
+  symbol: "10"
+502:
+  type:	Rain
+  description: "heavy intensity rain"
+  symbol: "10"
+503:
+  type:	Rain
+  description: "very heavy rain"
+  symbol: "10"
+504:
+  type:	Rain
+  description: "extreme rain"
+  symbol: "10"
+511:
+  type:	Rain
+  description: "freezing rain"
+  symbol: "13"
+520:
+  type:	Rain
+  description: "light intensity shower rain"
+  symbol: "09"
+521:
+  type:	Rain
+  description: "shower rain"
+  symbol: "09"
+522:
+  type:	Rain
+  description: "heavy intensity shower rain"
+  symbol: "09"
+531:
+  type:	Rain
+  description: "ragged shower rain"
+  symbol: "09"
+
+600:
+  type:	Snow
+  description: "light snow"
+  symbol: "13"
+601:
+  type:	Snow
+  description: "Snow"
+  symbol: "13"
+602:
+  type:	Snow
+  description: "Heavy snow"
+  symbol: "13"
+611:
+  type:	Snow
+  description: "Sleet"
+  symbol: "13"
+612:
+  type:	Snow
+  description: "Light shower sleet"
+  symbol: "13"
+613:
+  type:	Snow
+  description: "Shower sleet"
+  symbol: "13"
+615:
+  type:	Snow
+  description: "Light rain and snow"
+  symbol: "13"
+616:
+  type:	Snow
+  description: "Rain and snow"
+  symbol: "13"
+620:
+  type:	Snow
+  description: "Light shower snow"
+  symbol: "13"
+621:
+  type:	Snow
+  description: "Shower snow"
+  symbol: "13"
+622:
+  type:	Snow
+  description: "Heavy shower snow"
+  symbol: "13"
+
+701:
+  type:	Mist
+  description: "mist"
+  symbol: "50"
+711:
+  type:	Smoke
+  description: "Smoke"
+  symbol: "50"
+721:
+  type:	Haze
+  description: "Haze"
+  symbol: "50"
+731:
+  type:	Dust
+  description: "sand/ dust whirls"
+  symbol: "50"
+741:
+  type:	Fog
+  description: "fog"
+  symbol: "50"
+751:
+  type:	Sand
+  description: "sand"
+  symbol: "50"
+761:
+  type:	Dust
+  description: "dust"
+  symbol: "50"
+762:
+  type:	Ash
+  description: "volcanic ash"
+  symbol: "50"
+771:
+  type:	Squall
+  description: "squalls"
+  symbol: "50"
+781:
+  type:	Tornado
+  description: "tornado"
+  symbol: "50"
+  
+800:
+  type: Clear
+  description: "clear sky"
+  symbol: "01"
+801:
+  type:	"Clouds"
+  description: "few clouds: 11-25%"
+  symbol: "02"
+802:
+  type:	"Clouds"
+  description: "scattered clouds: 25-50%"
+  symbol: "03"
+803:
+  type:	"Clouds"
+  description: "broken clouds: 51-84%"
+  symbol: "04"
+804:
+  type:	"Clouds"
+  description: "overcast clouds: 85-100%"
+  symbol: "04"
